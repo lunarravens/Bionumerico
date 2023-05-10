@@ -16,13 +16,13 @@ O aplicativo foi feito para o trabalho final da máteria de Cálculo linear do p
 
 ## ❓ Como utilizar?
 
-#### Instale o arquivo Bionumerico.py
+#### - Instale o arquivo Bionumerico.py
 
-#### Abra o arquivo Bionumerico.py
+#### - Abra o arquivo Bionumerico.py
 
-#### Altere os valores da linha 7 e 8 para os que você deseja utilizar
+#### - Altere os valores da linha 7 e 8 para os que você deseja utilizar
 
-#### Rode o programa
+#### - Rode o programa
 
 
 ---
