@@ -16,21 +16,13 @@ O aplicativo foi feito para o trabalho final da máteria de Cálculo linear do p
 
 ## ❓ Como utilizar?
 
-### Requisitos
+### Instale o arquivo Bionumerico.py
 
-**Clone o projeto**
+### Abra o arquivo Bionumerico.py
 
-```bash
-$ git clone https://github.com/Crowvos/Bionumerico && cd Bionumerico
-```
+### Altere os valores da linha 7 e 8 para os que você deseja utilizar
 
-**Siga os passos abaixo:**
-
-# Abra o arquivo Bionumerico.py
-
-# Altere os valores da linha 7 e 8 para os que você deseja utilizar
-
-# Rode o programa
+### Rode o programa
 
 
 ---
